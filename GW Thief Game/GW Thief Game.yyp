@@ -1,5 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"Wall","path":"sprites/Wall/Wall.yy",},"order":1,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
+    {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
