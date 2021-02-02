@@ -1,0 +1,1 @@
+sprite_index = choose(trash1, trash2);

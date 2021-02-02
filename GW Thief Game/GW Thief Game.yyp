@@ -1,10 +1,18 @@
 {
   "resources": [
+    {"id":{"name":"trash2","path":"sprites/trash2/trash2.yy",},"order":6,},
     {"id":{"name":"Wall","path":"sprites/Wall/Wall.yy",},"order":1,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"Food","path":"sprites/Food/Food.yy",},"order":2,},
+    {"id":{"name":"Background","path":"sprites/Background/Background.yy",},"order":3,},
+    {"id":{"name":"chef_angry","path":"sprites/chef_angry/chef_angry.yy",},"order":7,},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
+    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":4,},
+    {"id":{"name":"trash1","path":"sprites/trash1/trash1.yy",},"order":5,},
+    {"id":{"name":"oController","path":"objects/oController/oController.yy",},"order":3,},
+    {"id":{"name":"chef_normal","path":"sprites/chef_normal/chef_normal.yy",},"order":8,},
     {"id":{"name":"oFood","path":"objects/oFood/oFood.yy",},"order":2,},
+    {"id":{"name":"Player_right","path":"sprites/Player_right/Player_right.yy",},"order":4,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
