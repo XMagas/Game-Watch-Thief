@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Execute_Code
-/// @DnDVersion : 1
-/// @DnDHash : 58BACEF0
-/// @DnDArgument : "code" "/// @description Insert description here$(13_10)// You can write your code in this editor$(13_10)"
 /// @description Insert description here
 // You can write your code in this editor
+
+instance_destroy();
+
+instance_create_layer(random(1920),random(300),"Instances",oFood);
